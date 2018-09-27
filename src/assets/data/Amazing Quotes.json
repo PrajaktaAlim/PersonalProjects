@@ -1,0 +1,273 @@
+[
+    {
+      "quote" : "Work hard in silence, let your success be your noise.", 
+      "author" : "Frank Ocean", 
+      "imgpath" : "../assets/images/Motivational/Motivational Quote 1.jpg",
+      "category": "Motivational" 
+    },
+    {
+      "quote" : "If you want something you have never had, you must be willing to do something you have never done.", 
+      "author" : "Thomas Jefferson", 
+      "imgpath" : "../assets/images/Motivational/Motivational Quote 2.jpg",
+      "category": "Motivational" 
+    },
+    {
+      "quote" : "The greatest pleasure in life is doing what people say you cannot do.", 
+      "author" : "Walter Bagehot", 
+      "imgpath" : "../assets/images/Motivational/Motivational Quote 3.jpg",
+      "category": "Motivational" 
+    },
+    {
+      "quote" : "Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.", 
+      "author" : "Earl Nightingale", 
+      "imgpath" : "../assets/images/Motivational/Motivational Quote 4.jpg",
+      "category": "Motivational" 
+    },
+    {
+      "quote" : "If it is important to you, you will find a way. If not, you’ll find an excuse.", 
+      "author" : "Ryan Blair", 
+      "imgpath" : "../assets/images/Motivational/Motivational Quote 5.jpg",
+      "category": "Motivational" 
+    },
+    {
+      "quote" : "Hard work beats talent when talent doesn't work hard.", 
+      "author" : "Tim Notke", 
+      "imgpath" : "../assets/images/Motivational/Motivational Quote 6.jpg",
+      "category": "Motivational" 
+    },
+    {
+      "quote" : "Great minds discuss ideas. Average minds discuss events. Small minds discuss people.", 
+      "author" : "Eleanor Roosevelt", 
+      "imgpath" : "../assets/images/Motivational/Motivational Quote 7.jpg",
+      "category": "Motivational" 
+    },
+    {
+        "quote" : "Arise, awake, stop not until your goal is achieved.", 
+        "author" : "Swami Vivekananda", 
+        "imgpath" : "../assets/images/Motivational/Motivational Quote 8.jpg",
+        "category": "Motivational" 
+    },
+    {
+        "quote" : "Whatever you think that you will be. If you think yourself weak, weak you will be; if you think yourself strong, you will be.", 
+        "author" : "Swami Vivekananda", 
+        "imgpath" : "../assets/images/Motivational/Motivational Quote 9.jpg",
+        "category": "Motivational" 
+    },
+    {
+        "quote" : "Dream is not that which you see while sleeping it is something that does not let you sleep.", 
+        "author" : "Dr. APJ Abdul Kalam", 
+        "imgpath" : "../assets/images/Motivational/Motivational Quote 10.jpg",
+        "category": "Motivational" 
+    },
+    {
+      "quote" : "If you focus on success, you’ll have stress. But if you pursue excellence, success will be guaranteed.", 
+      "author" : "Deepak Chopra", 
+      "imgpath" : "../assets/images/Success/Success Quote 1.jpg",
+      "category": "Success" 
+    },
+    {
+      "quote" : "Success is nothing more than a few simple disciplines, practiced every day.", 
+      "author" : "Jim Rohn", 
+      "imgpath" : "../assets/images/Success/Success Quote 2.jpg",
+      "category": "Success" 
+    },
+    {
+      "quote" : "Seven Steps to Success 1) Make a commitment to grow daily. 2) Value the process more than events. 3) Don't wait for inspiration. 4) Be willing to sacrifice pleasure for opportunity. 5) Dream big. 6) Plan your priorities. 7) Give up to go up.", 
+      "author" : "John C. Maxwell", 
+      "imgpath" : "../assets/images/Success/Success Quote 3.jpg",
+      "category": "Success" 
+    },
+    {
+      "quote" : "In order to succeed, your desire for success should be greater than your fear of failure.", 
+      "author" : "Bill Cosby", 
+      "imgpath" : "../assets/images/Success/Success Quote 4.jpg",
+      "category": "Success" 
+    },
+    {
+      "quote" : "Success is doing ordinary things extraordinarily well.", 
+      "author" : "Jim Rohn", 
+      "imgpath" : "../assets/images/Success/Success Quote 5.jpg",
+      "category": "Success" 
+    },
+    {
+        "quote" : "Do not judge me by my successes, judge me by how many times I fell down and got back up again.", 
+        "author" : "Nelson Mandela", 
+        "imgpath" : "../assets/images/Success/Success Quote 6.jpg",
+        "category": "Success" 
+    },
+    {
+      "quote" : "Successful people don’t have fewer problems. They have determined that nothing will stop them from going forward.", 
+      "author" : "Ben Carson", 
+      "imgpath" : "../assets/images/Success/Success Quote 7.jpg",
+      "category": "Success" 
+    },
+    {
+        "quote" : "Take up one idea. Make that one idea your life – think of it, dream of it, and live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success that is way great spiritual giants are produced.", 
+        "author" : "Swami Vivekananda", 
+        "imgpath" : "../assets/images/Success/Success Quote 8.jpg",
+        "category": "Success" 
+    },
+    {
+        "quote" : "Success is when your signature becomes an autograph.", 
+        "author" : "Dr. APJ Abdul Kalam", 
+        "imgpath" : "../assets/images/Success/Success Quote 9.jpg",
+        "category": "Success" 
+    },
+    {
+        "quote" : "Confidence and hard work is the best medicine to kill the disease called failure. It will make you successful person.", 
+        "author" : "Dr. APJ Abdul Kalam", 
+        "imgpath" : "../assets/images/Success/Success Quote 10.jpg",
+        "category": "Success" 
+    },
+    {
+        "quote" : "Always bear in mind that your own resolution to succeed is more important than any one thing.", 
+        "author" : "Abraham Lincoln", 
+        "imgpath" : "../assets/images/Success/Success Quote 11.jpg",
+        "category": "Success" 
+    },
+    {
+        "quote" : "You cannot fail unless you quit.", 
+        "author" : "Abraham Lincoln", 
+        "imgpath" : "../assets/images/Success/Success Quote 12.jpg",
+        "category": "Success" 
+    },
+    {
+        "quote" : "Life is the sum of your choices.", 
+        "author" : "Albert Camus", 
+        "imgpath" : "../assets/images/Life/Life Quote 1.jpg",
+        "category": "Life" 
+      },
+      {
+        "quote" : "Make each day your masterpiece. Life is now. Life is not later on.", 
+        "author" : "John Wooden", 
+        "imgpath" : "../assets/images/Life/Life Quote 2.jpg",
+        "category": "Life" 
+      },
+      {
+        "quote" : "It is not the years in your life that count, it's the life in your years.", 
+        "author" : "Abraham Lincoln", 
+        "imgpath" : "../assets/images/Life/Life Quote 3.jpg",
+        "category": "Life" 
+      },
+      {
+        "quote" : "Life is a matter of choices, and every choice you make makes you.", 
+        "author" : "John C. Maxwell", 
+        "imgpath" : "../assets/images/Life/Life Quote 4.jpg",
+        "category": "Life" 
+      },
+      {
+        "quote" : "You cannot have a positive life and a negative mind.", 
+        "author" : "Joyce Meyer", 
+        "imgpath" : "../assets/images/Positivity/Positivity Quote 1.jpg",
+        "category": "Positivity" 
+      },
+      {
+        "quote" : "How people treat you is their karma; how you react is yours.", 
+        "author" : "Wayne W. Dyer", 
+        "imgpath" : "../assets/images/Positivity/Positivity Quote 2.jpg",
+        "category": "Positivity" 
+      },
+      {
+        "quote" : "Your positive action combined with positive thinking results in success.", 
+        "author" : "Shiv Khera", 
+        "imgpath" : "../assets/images/Positivity/Positivity Quote 3.jpg",
+        "category": "Positivity" 
+      },
+      {
+        "quote" : "Once you replace negative thoughts with positive ones, you'll start having positive results.", 
+        "author" : "Willie Nelson", 
+        "imgpath" : "../assets/images/Positivity/Positivity Quote 4.jpg",
+        "category": "Positivity" 
+      },
+      {
+        "quote" : "Positive thinking will let you do everything better than negative thinking will.", 
+        "author" : "Zig Ziglar", 
+        "imgpath" : "../assets/images/Positivity/Positivity Quote 5.jpg",
+        "category": "Positivity" 
+      },
+      {
+        "quote" : "Every morning we are born again. What we do today is what matters most.", 
+        "author" : "Buddha", 
+        "imgpath" : "../assets/images/Positivity/Positivity Quote 6.jpg",
+        "category": "Positivity" 
+      },
+      {
+        "quote" : "The past is already gone, the future is not yet here. There’s only one moment for you to live, and that is the present moment.", 
+        "author" : "Buddha", 
+        "imgpath" : "../assets/images/Positivity/Positivity Quote 7.jpg",
+        "category": "Positivity" 
+      },
+      {
+        "quote" : "All birds find shelter during a rain. But eagle avoids rain by flying above the clouds. Problems are common, but attitude makes the difference.", 
+        "author" : "Dr. APJ Abdul Kalam", 
+        "imgpath" : "../assets/images/Positivity/Positivity Quote 8.jpg",
+        "category": "Positivity" 
+      },
+      {
+        "quote" : "Instead of cursing the darkness, light a candle.", 
+        "author" : "Benjamin Franklin", 
+        "imgpath" : "../assets/images/Positivity/Positivity Quote 9.jpg",
+        "category": "Positivity" 
+      },
+      {
+        "quote" : "Books are infinite in number and time is short. The secret of knowledge is to take what is essential. Take that and try to live up to it.", 
+        "author" : "Swami Vivekananda", 
+        "imgpath" : "../assets/images/Knowledge/Knowledge Quote 1.jpg",
+        "category": "Knowledge" 
+      },
+      {
+        "quote" : "An investment in knowledge always pays the best interest.", 
+        "author" : "Benjamin Franklin", 
+        "imgpath" : "../assets/images/Knowledge/Knowledge Quote 2.jpg",
+        "category": "Knowledge" 
+      },
+      {
+        "quote" : "Study without desire spoils the memory, and it retains nothing that it takes in.", 
+        "author" : "Leonardo da Vinci", 
+        "imgpath" : "../assets/images/Knowledge/Knowledge Quote 3.jpg",
+        "category": "Knowledge" 
+      },
+      {
+        "quote" : "Knowledge without practice is useless. Practice without knowledge is dangerous.", 
+        "author" : "Confucius", 
+        "imgpath" : "../assets/images/Knowledge/Knowledge Quote 4.jpg",
+        "category": "Knowledge" 
+      },
+      {
+        "quote" : "He who loves practice without theory is like the sailor who boards ship without a rudder and compass and never knows where he may cast.", 
+        "author" : "Leonardo da Vinci", 
+        "imgpath" : "../assets/images/Knowledge/Knowledge Quote 5.jpg",
+        "category": "Knowledge" 
+      },
+      {
+        "quote" : "The trouble is you think you have time.", 
+        "author" : "Buddha", 
+        "imgpath" : "../assets/images/Time/Time Quote 1.jpg",
+        "category": "Time" 
+      },
+      {
+        "quote" : "Time stays long enough for those who use it.", 
+        "author" : "Leonardo da Vinci", 
+        "imgpath" : "../assets/images/Time/Time Quote 2.jpg",
+        "category": "Time" 
+      },
+      {
+        "quote" : "You may delay, but time will not.", 
+        "author" : "Benjamin Franklin", 
+        "imgpath" : "../assets/images/Time/Time Quote 3.jpg",
+        "category": "Time" 
+      },
+      {
+        "quote" : "Each work has to pass through these stages: ridicule, opposition, and then acceptance. Those who think ahead of their time are sure to be misunderstood.", 
+        "author" : "Swami Vivekananda", 
+        "imgpath" : "../assets/images/Time/Time Quote 4.jpg",
+        "category": "Time" 
+      },
+      {
+        "quote" : "For every minute spent in organizing, an hour is earned.", 
+        "author" : "Benjamin Franklin", 
+        "imgpath" : "../assets/images/Time/Time Quote 5.jpg",
+        "category": "Time" 
+      }
+
+]

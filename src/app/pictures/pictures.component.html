@@ -1,0 +1,18 @@
+<div class="container card-columns my-3">   
+  <div class="card" *ngFor="let quote of quotes">   
+    <div *ngIf=quote.imgpath>
+      <img src={{quote.imgpath}} alt="quote image" class="image card-img-top img-responsive"> 
+      
+      <div class="middle">
+        <a routerLink="../show-quote" class="btn btn-primary" (click)=viewPic(quote) rel="nofollow">
+          Share    
+          <span style="color: dodgerblue" >
+            <i class="fas fa-share-alt"></i>
+          </span> 
+        </a>         
+      </div>
+    </div>
+  </div>
+</div>
+    
+<div class="clearfix"></div>

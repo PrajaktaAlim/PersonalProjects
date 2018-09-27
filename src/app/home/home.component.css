@@ -1,0 +1,11 @@
+#grad 
+{
+	height: 100%;
+	background-color: dodgerblue; /* For browsers that do not support gradients */
+	background-image: linear-gradient(90deg, #2c7bf1e3 0%, #4db8ff 50%, #2c7bf1e3 100%);
+}
+
+.jumbotron
+{
+	border-radius: 0px;
+}

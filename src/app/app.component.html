@@ -1,21 +1,111 @@
-<!--The content below is only a placeholder and can be replaced.-->
-<div style="text-align:center">
-  <h1>
-    Welcome to {{ title }}!
-  </h1>
-  <img width="300" alt="Angular Logo" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj4KICAgIDxwYXRoIGZpbGw9IiNERDAwMzEiIGQ9Ik0xMjUgMzBMMzEuOSA2My4ybDE0LjIgMTIzLjFMMTI1IDIzMGw3OC45LTQzLjcgMTQuMi0xMjMuMXoiIC8+CiAgICA8cGF0aCBmaWxsPSIjQzMwMDJGIiBkPSJNMTI1IDMwdjIyLjItLjFWMjMwbDc4LjktNDMuNyAxNC4yLTEyMy4xTDEyNSAzMHoiIC8+CiAgICA8cGF0aCAgZmlsbD0iI0ZGRkZGRiIgZD0iTTEyNSA1Mi4xTDY2LjggMTgyLjZoMjEuN2wxMS43LTI5LjJoNDkuNGwxMS43IDI5LjJIMTgzTDEyNSA1Mi4xem0xNyA4My4zaC0zNGwxNy00MC45IDE3IDQwLjl6IiAvPgogIDwvc3ZnPg==">
-</div>
-<h2>Here are some links to help you start: </h2>
-<ul>
-  <li>
-    <h2><a target="_blank" rel="noopener" href="https://angular.io/tutorial">Tour of Heroes</a></h2>
-  </li>
-  <li>
-    <h2><a target="_blank" rel="noopener" href="https://github.com/angular/angular-cli/wiki">CLI Documentation</a></h2>
-  </li>
-  <li>
-    <h2><a target="_blank" rel="noopener" href="https://blog.angular.io/">Angular blog</a></h2>
-  </li>
-</ul>
+<nav class="navbar navbar-expand navbar-dark" style="background-color: #2c7bf1e3;">
+    <!-- Brand/logo -->
+    <a class="navbar-brand" routerLink="./home">
+      <sup><i class="fas fa-quote-left fa-xs"></i></sup>
+      <span class="mx-1" style="font-family: 'Arial Rounded MT', 'Trebuchet MS', sans-serif">Amazing Quotes</span>
+      <sup><i class="fas fa-quote-right fa-xs"></i></sup>
+    </a>
+    
+    <!-- Links -->
+    <ul class="navbar-nav" style="font-size: 16px">
+      <li class="nav-item">
+        <a class="nav-link" routerLink="./home">
+          <i class="fas fa-home fa-lg"></i>
+        </a>
+      </li>
 
+      <li class="nav-item">
+        <a class="nav-link" routerLink="./categories">Categories</a>
+      </li>
+      <li class="nav-item">
+          <a class="nav-link" routerLink="./authors">Authors</a>
+        </li>
+      <li class="nav-item">
+        <a class="nav-link" routerLink="./quote-of-the-day">Quote of the day</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" routerLink="./pictures">Pictures</a>
+      </li>      
+    </ul>
+  
+    <form class="form-inline flex-row ml-md-auto d-md-flex">
+      <div class="input-group input-group-sm">
+        <input type="text" class="form-control" placeholder="Search...">
+        <div class="input-group-append">
+          <a class="btn btn-outline-primary" href="#">
+            <i class="fas fa-search fa-lg fa-inverse"></i>
+          </a>
+        </div>
+      </div>
+    
+    </form>
+  <!-- <button class="btn btn-primary my-2 my-sm-0" type="submit">Search</button>-->
+  </nav>
 <router-outlet></router-outlet>
+
+<footer class=container-fluid>
+ 
+  <div class="row bg-dark text-light px-4 pt-4">
+    <ul class="list-inline">
+      <li class="list-inline-item"><a routerLink="./home">Home</a></li>
+      <li class="list-inline-item"><a routerLink="./categories">Categories</a></li>
+      <li class="list-inline-item"><a routerLink="./authors">Authors</a></li>
+      <li class="list-inline-item"><a routerLink="./quote-of-the-day">Quote of the Day</a></li>
+      <li class="list-inline-item"><a routerLink="./pictures">Pictures</a></li>
+    </ul>   
+  </div>
+ 
+  <div class="row bg-dark text-light px-4">
+    <ul class="list-inline">
+      <li class="list-inline-item">
+        <a href="https://www.facebook.com/" class="fa-stack fa-lg" target="_blank" rel="nofollow">
+          <span style="color: #375a9c">
+            <i class="fa fa-square fa-stack-2x"></i>
+            <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+          </span>
+        </a>         
+      </li>
+      <li class="list-inline-item">
+        <a href="https://twitter.com/" class="fa-stack fa-lg" target="_blank" rel="nofollow">
+          <span style="color: #00acf0">
+            <i class="fa fa-square fa-stack-2x"></i>
+            <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+          </span>
+        </a>         
+      </li>
+      <li class="list-inline-item">
+        <a href="https://in.pinterest.com/" class="fa-stack fa-lg" target="_blank" rel="nofollow">
+          <span style="color: #d4201b">
+            <i class="fa fa-square fa-stack-2x"></i>
+            <i class="fab fa-pinterest-p fa-stack-1x fa-inverse"></i>
+          </span>
+        </a>         
+      </li>
+      <li class="list-inline-item">
+        <a href="https://plus.google.com/" class="fa-stack fa-lg" target="_blank" rel="nofollow">
+          <span style="color: #df4f43">
+            <i class="fa fa-square fa-stack-2x"></i>
+            <i class="fab fa-google-plus-g fa-stack-1x fa-inverse"></i>
+          </span>
+        </a>         
+      </li>
+      <li class="list-inline-item">
+        <a href="https://in.linkedin.com/" class="fa-stack fa-lg" target="_blank" rel="nofollow">
+          <span style="color: #157eb5">
+            <i class="fa fa-square fa-stack-2x"></i>
+            <i class="fab fa-linkedin-in fa-stack-1x fa-inverse"></i>
+          </span>
+        </a>         
+      </li>
+    </ul>   
+ </div>
+
+  <div class="row bg-dark text-light">
+    <div class="col-lg-6 col-md-6 col-sm-12">
+      <div class="copyright-text p-3">
+        <p>Copyright © 2018 - Amazing Quotes Designed by Prajakta Alim</p>
+      </div>
+    </div>
+  </div> 
+ 
+</footer>
